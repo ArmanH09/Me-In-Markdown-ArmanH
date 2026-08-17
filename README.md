@@ -15,3 +15,17 @@
 
 ## <center> **My Favorite Songs This Summer**
 
+[My Playlist!](https://open.spotify.com/playlist/6fpXDtifGujIILqE7WEEFk?si=RgNaq2UXS5q7ia1vRXV_7A)
+
+## <center> **Some Images From My Summer**
+
+![Fishing In Lake Isabella Kern County](img/1.png)
+![Fishing](img/2.png)
+![Seinfeld](img/3.png)
+![UCLA](img/4.png)
+![Cal Poly Pomona](img/5.png)
+![Lockheed Martin](img/6.png)
+![CSULB](img/7.png)
+![Buttonwillow Track Layout](img/8.png)
+![Buttonwillow on the ground](img/9.png)
+![College App](img/10.png)
